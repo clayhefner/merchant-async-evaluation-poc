@@ -1,4 +1,4 @@
-# Merchant Evaluation POC
+# Merchant Async Evaluation POC
 
 A modern React application for evaluating merchant data with a beautiful dark-themed UI, real-time validation, and asynchronous processing capabilities.
 
